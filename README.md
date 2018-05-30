@@ -80,7 +80,6 @@ XSS的类型：
         <td>启用XSS过滤。 如果检测到跨站脚本攻击，浏览器将清除页面并使用CSP report-uri指令的功能发送违规报告</td>
     </tr>
 </table>
-<div>浏览器支持：</div>
 
 ### [4] DDoS， 分布式拒绝服务（Distributed Denial of Service）
 **---> DoS 攻击就是通过大量恶意流量占用带宽和计算资源以达到瘫痪对方网络的目的。**
